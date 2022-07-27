@@ -1,5 +1,3 @@
-# Ciencia_de_Dados
-
 # Projeto 1 para a disciplina de Ciência de Dados 2022.1
 
 ## Dados
